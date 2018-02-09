@@ -1,0 +1,5 @@
+C:\Users\jorge\my-projects\ComicNation\ComicNation\bin\ComicNation.dll
+C:\Users\jorge\my-projects\ComicNation\ComicNation\bin\ComicNation.pdb
+C:\Users\jorge\my-projects\ComicNation\ComicNation\obj\Debug\ComicNation.csprojResolveAssemblyReference.cache
+C:\Users\jorge\my-projects\ComicNation\ComicNation\obj\Debug\ComicNation.dll
+C:\Users\jorge\my-projects\ComicNation\ComicNation\obj\Debug\ComicNation.pdb

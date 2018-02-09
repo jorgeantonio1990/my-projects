@@ -1,0 +1,86 @@
+html {
+    background-color: white;
+}
+
+body {
+    height:auto;
+    width: 928px;
+    margin: auto;
+    background-color: #8F8C8C;
+    border-style: dashed;
+}
+
+#titlepage {
+    font-family: 'Comic Sans MS',Arial;
+    font-size: 20px;
+    color: yellow;
+    font-weight: 200;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#credenciales {
+    float: right;
+    display:inline-block;
+}
+
+#credenciales2 {
+    float: right;
+    clear:both;
+    border-style:double;
+    background-color: #8F8C8C;
+    display:none;
+}
+
+.usuario {
+    font-family:'Comic Sans MS',Arial;
+    font-size:12px;
+    font-weight: 200;
+    color:yellow;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.usuario2 {
+    font-family:'Comic Sans MS',Arial;
+    font-size:12px;
+}
+
+.botones {
+    color:#0FC403 ;
+    font-family: 'Comic Sans MS',Arial;
+    font-size: 12px;
+    border:outset;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    cursor: pointer;
+    width:auto;
+    margin:auto;
+}
+
+#diventrar {
+    display:inline;
+}
+
+#divregistrarse {
+    display:inline;
+}
+
+.portada {
+    vertical-align:central;
+    display:inline;
+}
+
+.titulocolumna {
+    font-family:Arial,'Times New Roman';
+    font-size:18px;
+    color:blue;
+    font-weight: 200;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    text-align:center;
+}
+
+.titlecomic {
+    font-family:'Times New Roman',Arial;
+    font-size:20px;
+    color:red;
+    font-weight: 200;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
